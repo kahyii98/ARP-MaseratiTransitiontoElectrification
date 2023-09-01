@@ -54,7 +54,7 @@ The Youtube folder is further divided into two sub-folders: `FormulaE` and `Gran
 - **Source**: [GitHub Repository](https://github.com/twistedTightly/NLP-Age-Classification)
 
 ##### `naiveBayesFinalModel.ipynb`
-- **Purpose**: Serves as the final age prediction model using Naive Bayes. The model is provided by [this GitHub repository](https://github.com/twistedTightly/NLP-Age-Classification/blob/master/src/naive_bayes_combined.py).
+- **Purpose**: Serves as the final age prediction model using Naive Bayes. The model is provided by [ GitHub repository](https://github.com/twistedTightly/NLP-Age-Classification/blob/master/src/naive_bayes_combined.py).
 - **Output**: Includes the overall distribution of sentiment analysis, age-predicted categories, and a stacked bar chart of sentiment within age categories. Note that the analysis (output) is original work and not part of the provided model.
 
 ##### `topicModelling.ipynb`
