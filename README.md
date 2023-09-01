@@ -20,11 +20,11 @@ The repository is divided into two main folders: `Pistonheads` and `Youtube`. Ea
 
 ---
 
-### 📁YouTube
+### :yt:YouTube
 
 The Youtube folder is further divided into two sub-folders: `FormulaE` and `GranturismoFolgore`.
 
-#### 📁FormulaE
+#### 🏎️FormulaE
 
 ##### `formulaEScraping.ipynb`
 - **Purpose**: Scrapes YouTube comments related to Formula E.
@@ -36,7 +36,7 @@ The Youtube folder is further divided into two sub-folders: `FormulaE` and `Gran
 
 ---
 
-#### 📁Granturismo Folgore
+#### 🚙Granturismo Folgore
 
 ##### `preprocessingPosTag.ipynb`
 - **Purpose**: Preprocesses the Granturismo Folgore data for POS tagging.
