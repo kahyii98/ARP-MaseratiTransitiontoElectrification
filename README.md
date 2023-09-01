@@ -28,7 +28,7 @@ The Youtube folder is further divided into two sub-folders: `FormulaE` and `Gran
 
 ##### `formulaEScraping.ipynb`
 - **Purpose**: Scrapes YouTube comments related to Formula E.
-- **Output**: FormulaE.xlsx for further analysis.
+- **Output**: `FormulaE.xlsx` for further analysis.
 
 ##### `formulaEAnalysis.ipynb`
 - **Purpose**: Performs sentiment analysis and topic modelling on the well-structured scraped data `RobertaSentimentalFormulaEfinal.xlsx`.
