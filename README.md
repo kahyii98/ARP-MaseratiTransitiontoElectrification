@@ -50,12 +50,12 @@ The Youtube folder is further divided into two sub-folders: `FormulaE` and `Gran
 - **Source**: [GitHub Repository](https://github.com/twistedTightly/NLP-Age-Classification/blob/master/src/naive_bayes_bigrams_class_return_probs.py)
 
 ##### `pos_tagger_class.ipynb` & `naiveBayesCombined.ipynb`
-- **Purpose**: Additional code for Naive Bayes model.
+- **Purpose**: Additional code for`naiveBayesFinalModel.ipynb`.
 - **Source**: [GitHub Repository](https://github.com/twistedTightly/NLP-Age-Classification)
 
 ##### `naiveBayesFinalModel.ipynb`
-- **Purpose**: Final age prediction model using Naive Bayes.
-- **Output**: Overall distribution of sentiment analysis, age-predicted categories, and a stacked bar chart of sentiment within age categories.
+- **Purpose**: Serves as the final age prediction model using Naive Bayes. The model is provided by [this GitHub repository](https://github.com/twistedTightly/NLP-Age-Classification/blob/master/src/naive_bayes_combined.py).
+- **Output**: Includes the overall distribution of sentiment analysis, age-predicted categories, and a stacked bar chart of sentiment within age categories. Note that the analysis (output) is original work and not part of the provided model.
 
 ##### `topicModelling.ipynb`
 - **Purpose**: Performs topic modeling for Granturismo Folgore.
