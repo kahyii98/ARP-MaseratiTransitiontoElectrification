@@ -1,7 +1,8 @@
 # ARP - Maserati Transition to Electrification
 
 ## Project Overview
-This applied research project aims to explore how younger audiences, specifically those in their teens and twenties, react on social media to Maserati's transition to electric vehicles.
+This applied research project aims to explore how younger audiences, specifically those in their teens and twenties, react on social media to Maserati's transition to electric vehicles.![Maserati Logo](https://example.com/path/to/maserati-logo.png)
+
 
 ---
 
@@ -11,7 +12,7 @@ The repository is divided into two main folders: `Pistonheads` and `Youtube`. Ea
 
 ---
 
-### Pistonheads
+### 📁Pistonheads
 
 #### `pistonheadsScraping.ipynb`
 - **Purpose**: Scrapes data from the Pistonheads website about the Maserati Granturismo Folgore.
@@ -19,11 +20,11 @@ The repository is divided into two main folders: `Pistonheads` and `Youtube`. Ea
 
 ---
 
-### YouTube
+### 📁YouTube
 
 The Youtube folder is further divided into two sub-folders: `FormulaE` and `GranturismoFolgore`.
 
-#### FormulaE
+#### 📁FormulaE
 
 ##### `formulaEScraping.ipynb`
 - **Purpose**: Scrapes YouTube comments related to Formula E.
@@ -35,7 +36,7 @@ The Youtube folder is further divided into two sub-folders: `FormulaE` and `Gran
 
 ---
 
-#### Granturismo Folgore
+#### 📁Granturismo Folgore
 
 ##### `preprocessingPosTag.ipynb`
 - **Purpose**: Preprocesses the Granturismo Folgore data for POS tagging.
