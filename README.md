@@ -20,7 +20,7 @@ The repository is divided into two main folders: `Pistonheads` and `Youtube`. Ea
 
 ---
 
-### :yt:YouTube
+### 📁YouTube
 
 The Youtube folder is further divided into two sub-folders: `FormulaE` and `GranturismoFolgore`.
 
