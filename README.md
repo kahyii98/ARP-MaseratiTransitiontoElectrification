@@ -1,7 +1,7 @@
 # ARP - Maserati Transition to Electrification
 
 ## Project Overview
-This applied research project aims to explore how younger audiences, specifically those in their teens and twenties, react on social media to Maserati's transition to electric vehicles.![Maserati Logo](https://example.com/path/to/maserati-logo.png)
+This applied research project aims to explore how younger audiences, specifically those in their teens and twenties, react on social media to Maserati's transition to electric vehicles.
 
 
 ---
