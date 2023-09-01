@@ -15,23 +15,23 @@ The repository is divided into two main folders: `Pistonheads` and `Youtube`. Ea
 
 #### `pistonheadsScraping.ipynb`
 - **Purpose**: Scrapes data from the Pistonheads website about the Maserati Granturismo Folgore.
-- **Output**: Raw data for further analysis.
+- **Output**: `pistonheads.xlsx` for further analysis.
 
 ---
 
-### Youtube
+### YouTube
 
 The Youtube folder is further divided into two sub-folders: `FormulaE` and `GranturismoFolgore`.
 
 #### FormulaE
 
 ##### `formulaEScraping.ipynb`
-- **Purpose**: Scrapes Youtube comments related to Formula E.
-- **Output**: Raw data for further analysis.
+- **Purpose**: Scrapes YouTube comments related to Formula E.
+- **Output**: FormulaE.xlsx for further analysis.
 
 ##### `formulaEAnalysis.ipynb`
-- **Purpose**: Performs sentiment analysis and topic modeling on the scraped data.
-- **Output**: Visualizations of comment volume and sentiment over time, and topic labels for June 2023.
+- **Purpose**: Performs sentiment analysis and topic modelling on the well-structured scraped data `RobertaSentimentalFormulaEfinal.xlsx`.
+- **Output**: Visualizations of comment volume and sentiment over time, and topic labels for Formula E June 2023.
 
 ---
 
@@ -39,7 +39,7 @@ The Youtube folder is further divided into two sub-folders: `FormulaE` and `Gran
 
 ##### `preprocessingPosTag.ipynb`
 - **Purpose**: Preprocesses the Granturismo Folgore data for POS tagging.
-- **Output**: Data ready for age prediction modeling.
+- **Output**: `AgeProcessedData.xlsx` ready for age prediction modeling.
 
 ##### `agePredictionTraining.ipynb`
 - **Purpose**: Trains BERT and RoBERTa models for age prediction.
@@ -55,7 +55,7 @@ The Youtube folder is further divided into two sub-folders: `FormulaE` and `Gran
 
 ##### `naiveBayesFinalModel.ipynb`
 - **Purpose**: Final age prediction model using Naive Bayes.
-- **Output**: Overall distribution of sentiment analysis, age predicted categories, and a stacked bar chart of sentiment within age categories.
+- **Output**: Overall distribution of sentiment analysis, age-predicted categories, and a stacked bar chart of sentiment within age categories.
 
 ##### `topicModelling.ipynb`
 - **Purpose**: Performs topic modeling for Granturismo Folgore.
