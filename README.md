@@ -50,7 +50,7 @@ The Youtube folder is further divided into two sub-folders: `FormulaE` and `Gran
 - **Purpose**: Implements a bigram model for age prediction.
 - **Source**: [GitHub Repository](https://github.com/twistedTightly/NLP-Age-Classification/blob/master/src/naive_bayes_bigrams_class_return_probs.py)
 
-##### `pos_tagger_class.ipynb` & `naiveBayesCombined.ipynb`
+##### `pos_tagger_class.py` & `naiveBayesCombined.py`
 - **Purpose**: Additional code for`naiveBayesFinalModel.ipynb`.
 - **Source**: [GitHub Repository](https://github.com/twistedTightly/NLP-Age-Classification)
 
